@@ -1,2 +1,2 @@
 # NexuBoardOS-26
-NexubordOS 26 is like macos
+NexubordOS 26 is like macos but ipad too
